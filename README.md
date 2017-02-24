@@ -1,5 +1,5 @@
 ## Synopsis
-This project is a "vanilla" project which entails about resort called coolseabreeze.
+This project is a "vanilla" project which entails about writing input as numbers and output comes as roman numbers.
 
 ## Code Example
 Kindly to access my codes clone the repository.
